@@ -1,0 +1,23 @@
+{
+  "name": "sntsdark-one",
+  "displayName": "SNTS'DARK#01",
+  "description": "A DARK THEME BY THE SNTS'COLLECTIVE",
+  "author": "Sebastion (sntsixx) de Mase",
+  "version": "0.1.0",
+  "publisher": "SNTS'COLLECTIVE",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SNTS'DARK #01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SNTS'DARK #01-color-theme.json"
+      }
+    ]
+  }
+}
