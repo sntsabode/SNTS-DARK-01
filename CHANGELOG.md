@@ -8,6 +8,12 @@
 
 - Initial release
 
+## [v0.2.0] - 07/02/2026
+
+### Added
+
+- Change Color Palette Completely
+
 ***
 
 <div align="center">
