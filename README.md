@@ -4,15 +4,6 @@
   <img src=".assets/banner-wb.png" alt="SNTS'DARK#01 Banner">
 </p>
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=sntscollective.sntsdark-dark">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/sntscollective.sntsdark-dark?style=for-the-badge&label=VS%20Marketplace&color=1e90ff" alt="Visual Studio Marketplace Version">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=sntscollective.sntsdark-dark">
-      <img src="https://img.shields.io/visual-studio-marketplace/r/sntscollective.sntsdark-dark?style=for-the-badge&color=9acd32" alt="Visual Studio Marketplace Rating">
-  </a>
-</p>
-
 ## ✨ Introduction
 
 **SNTS'DARK#01** is a sleek, modern, and dark theme for Visual Studio Code, heavily inspired by the beloved **GitHub Dark Mode**. If you're a fan of that clean, high-contrast, and easy-on-the-eyes aesthetic, you'll feel right at home.
